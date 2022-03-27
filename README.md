@@ -18,7 +18,7 @@ This application allows the user to enter stylist and client information. It als
 
 Database Structure
 
-![Database Structure Image](/HairSalons/wwwroot/images/DatabaseImage.jpg)
+![Database Structure Image](/HairSalon/wwwroot/images/DatabaseImage.jpg)
 
 ## Setup/Installation Requirements
 
